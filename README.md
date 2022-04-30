@@ -1,5 +1,7 @@
 ## Online Computing Offloading and Resource Scheduling in Mobile-Edge Computing - 复现
 
-### 2022/03/24
+### 2022/03/24   尚未成功
 
-### 尚未成功
+### 2022/04/30   尚未成功
+
+下一步：研究一下随机行走
